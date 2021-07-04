@@ -1,0 +1,10 @@
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\bin\Debug\projePaint.exe.config
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\bin\Debug\projePaint.exe
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\bin\Debug\projePaint.pdb
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.csprojResolveAssemblyReference.cache
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.Form1.resources
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.Properties.Resources.resources
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.csproj.GenerateResource.Cache
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.csproj.CoreCompileInputs.cache
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.exe
+C:\Users\toshıba satellıte\source\repos\projePaint\projePaint\obj\Debug\projePaint.pdb
